@@ -1,4 +1,4 @@
-# **secure-encryptor**
+# **ReallySecureAlgorithm_2.0**
 
 Category: crypto
 
