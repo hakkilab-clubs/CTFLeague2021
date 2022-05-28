@@ -12,6 +12,7 @@ Description:
 
 Top level software determined that this image is suspicious. We cannot find out why, so we ask you to find out what information it holds. We think it is the source code for an antiquated echo service which we have discovered here:
 http://chal.ctf-league.osusec.org/nft.jpg
+
 The program that detected that this image is suspicious also spit out the information:
 
 Bits=3
